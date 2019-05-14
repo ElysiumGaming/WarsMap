@@ -24,7 +24,6 @@ url: "ElysiumGaming.github.io" # the base hostname & protocol for your site, e.g
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
